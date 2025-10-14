@@ -1,6 +1,6 @@
 # Solitaire
 
- Google's Solitaire CURL'd and compiled into a playable format for offline use.
+ Google's Solitaire CURL'd and compiled into a playable format for offline use. (From fluteds)
 
 Play Offline
 
